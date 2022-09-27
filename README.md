@@ -1,4 +1,6 @@
-![](https://bestanimations.com/media/chemistry/2002718273chemistry-atom-proton-electron-animation-17.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/38/23/62/382362357c839db33e2b75c2f767136f.gif" />
+</p>
 
 <!--
 **serventera/serventera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
